@@ -17,14 +17,13 @@
     <input type="checkbox" name="" id="toggler">
     <label for="toggler" class="fas fa-bars"></label>
 
-    <a href="#" class="logo"><span>Travelscapes</span></a>
+    <a href="#" class="logo"><span>Travels Renggo</span></a>
 
     <nav class="navbar">
         <a href="#home">Home</a>
         <a href="#about">About</a>
         <a href="#products">Places</a>
         <a href="./Login/login.php">Login/Signup</a>
-        <a href="./admin/adminlogin.php">Admin</a>
     </nav>
 
     <div class="icons">
@@ -38,8 +37,8 @@
 <section class="home" id="home">
 
     <div class="content">
-        <span> Incredible India: </span>
-        <p>Where Every Place is a Story, Every Journey an Adventure.</p>
+        <span> Menjelajahi dunia </span>
+        <p>Temukan terbaik untuk mengenang momen-momen bersama keluarga anda.</p>
         <a href="#products" class="btn">Travel Now</a>
     </div>
 
@@ -59,50 +58,15 @@
 
         <div class="content">
             <h3>why choose us?</h3>
-<p> What truly sets us apart is our unwavering commitment to your satisfaction. Our 24/7 customer support is always ready to assist you, and we offer competitive prices and exclusive deals to save you money while you explore the world. Choose our travel website, and you're not just a traveler; you're part of a community that values your journey and strives to make it enjoyable and hassle-free. Join us today for unforgettable adventures, where your travel needs take center stage.</p>
+<p> "Temukan keindahan yang belum pernah Anda bayangkan dengan perjalanan kami! Mari jelajahi dunia bersama-sama dan rasakan pesonanya dalam
+     setiap langkah. Dari pantai pasir putih hingga puncak gunung yang menakjubkan, kami siap mengantarkan Anda pada petualangan tak terlupakan. 
+     Bersiaplah untuk melangkah ke dunia baru yang penuh dengan kejutan dan kenangan yang tak terlupakan. Bergabunglah dengan kami dan buatlah momen-momen magis dalam perjalanan hidup Anda!"</p>
             <a href="#review" class="btn">learn more</a>
         </div>
 
     </div>
 
 </section> 
-
-<section class="icons-container">
-
-    <div class="icons">
-        <img src="./images/icon-1.png" alt="">
-        <div class="info">
-            <h3>free booking</h3>
-            <span>on all orders</span>
-        </div>
-    </div>
-
-    <div class="icons">
-        <img src="./images/icon-2.png" alt="">
-        <div class="info">
-            <h3>10 days returns</h3>
-            <span>moneyback guarantee</span>
-        </div>
-    </div>
-
-    <div class="icons">
-        <img src="./images/icon-3.png" alt="">
-        <div class="info">
-            <h3>offer & gifts</h3>
-            <span>on all orders</span>
-        </div>
-    </div>
-
-    <div class="icons">
-        <img src="./images/icon-4.png" alt="">
-        <div class="info">
-            <h3>secure paymens</h3>
-            <span>protected by Razorpay</span>
-        </div>
-    </div>
-
-</section>
-
 
 <section class="products" id="products">
 
